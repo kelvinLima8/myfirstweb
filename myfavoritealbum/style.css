@@ -1,12 +1,25 @@
 * {
-    border: 3px solid red;  
+    font-family: Mochiy pop uno, sans-serif;
 }
 
-h1{
-    text-align: center;   
+h1 {
+    color:darkcyan;
+    text-shadow: 4px 5px 6px;
+    
 }
 
-h2{
-    text-align: end;
-    font-size: 50px;
+h2 {
+    color:darkgreen;
+    text-shadow: 4px 5px 6px;
+    
+}
+
+h3 {
+    color: blue;
+    text-shadow: 3px 4px 5px;
+}
+
+.spoti {
+    position: relative;
+    left: px;
 }
