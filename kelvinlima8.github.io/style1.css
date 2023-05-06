@@ -1,0 +1,70 @@
+
+h1 {
+    color:darkgoldenrod;
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    text-shadow: 1px 2px 3px;
+}
+
+.caja {
+    backgrou nd-color: darkred;
+    border: 1px solid rgb(87, 84, 84);
+    background -color: white;
+    color: rgb(230, 2, 2);
+    font-weight: bold;
+    wid th: 300px;
+    hei ght: 300px;  
+    line -height: 120px;
+    text-align: ;
+    margin: 5px;
+    flo at: left;
+    
+}
+
+.flex-container {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    padding: 5px;
+    background-color:black;
+    justify-content:;
+    width: ;
+    margin: 5px;
+    text-align:left;
+    
+}
+
+.right {
+    float: right;
+}
+ 
+.left {
+    float: left;
+} 
+
+button {
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    background-color: transparent;
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+.spotify {
+    flo at:left;
+
+}
+
+a {
+    width: 100px;
+}
+p {
+    text-al ign:left;
+}

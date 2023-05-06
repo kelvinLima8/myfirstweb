@@ -1,0 +1,23 @@
+header{
+    display: flex;
+}
+
+body {
+    display: flex;
+    flex-direction:column
+    
+} 
+
+div {
+    flex: auto;
+    display: flex;
+    padding: 5px;
+}
+
+body div {
+    flex-direction: column;
+}
+
+.titulo {
+    font-size: 30px;
+} 
